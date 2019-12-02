@@ -1,5 +1,3 @@
-<img src="https://res.cloudinary.com/bytefury/image/upload/v1574149856/Crater/craterframe.png">
-
 ## Introduction
 
 Pay Invois CMS is an open-source web apps that helps you track expenses, payments & create professional invoices with multiple templates.
